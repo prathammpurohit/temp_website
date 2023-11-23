@@ -13,8 +13,6 @@
   margin:0;
   font-family:monospace;
   color:var(--text-color);
-}
-p{
   font-size:14px;
 }
 body{
@@ -27,21 +25,14 @@ strong{
   color:var(--heading-color);
 }
 header{
-  position:relative;
   padding:1rem;
-  height:25vh;
   background-color:var(--bg-color-hero);
   border-radius:1rem;  
   border:1px solid var(--border-hero-color);
   margin-bottom:2rem;
+  line-height:2.1;
 }
 
-.intro{
-  height:100%;
-  display:flex;
-  align-items:center;
-  line-height:2.5;
-}
 main{
   padding:1rem;
 }
