@@ -38,7 +38,7 @@ main{
 }
 a{
   color:var(--link-color);
-  font-size:14px;
+  font-size:16px;
 }
 svg{
   fill:var(--link-color);
